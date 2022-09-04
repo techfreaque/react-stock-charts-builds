@@ -8,10 +8,6 @@
   "homepage": "http://rrag.github.io/react-stockcharts/",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.18.13",
-    "@babel/eslint-parser": "^7.18.9",
-    "@babel/preset-env": "^7.18.10",
-    "@babel/preset-react": "^7.18.6",
     "d3-array": "^3.2.0",
     "d3-collection": "^1.0.7",
     "d3-force": "^3.0.0",
@@ -26,9 +22,7 @@
     "debug": "^4.3.4",
     "lodash.flattendeep": "^4.4.0",
     "prop-types": "^15.8.1",
-    "react-app": "^1.1.2",
-    "save-svg-as-png": "^1.4.17",
-    "webpack-cli": "^4.10.0"
+    "save-svg-as-png": "^1.4.17"
   },
   "peerDependencies": {
     "react": "^18.2.0",
